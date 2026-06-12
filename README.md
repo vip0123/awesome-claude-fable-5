@@ -4,6 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Try it on MuAPI](https://img.shields.io/badge/Try_it_on-MuAPI-black)](https://muapi.ai/playground/claude-fable-5)
+[![20% Off Fable 5](https://img.shields.io/badge/Fable_5-20%25_OFF-ff6b00)](https://muapi.ai/pricing)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://muapi.ai/playground/claude-fable-5)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.muapi.ai)
 
@@ -31,7 +32,7 @@ This English source README focuses on high-signal cases with concrete workflows,
 
 Most cases are curated from X/Twitter posts and public demos. Each case title links back to the original source and each author handle links to the creator profile.
 
-Try it on MuAPI: [Claude Fable 5](https://muapi.ai/playground/claude-fable-5)
+Try it on MuAPI at **20% off**: [Claude Fable 5](https://muapi.ai/pricing)
 
 ## 📊 Overview
 
@@ -42,6 +43,9 @@ Try it on MuAPI: [Claude Fable 5](https://muapi.ai/playground/claude-fable-5)
 
 > [!NOTE]
 > The collection favors concrete evidence over hype: reproducible prompts, shipped demos, benchmark methods, integration notes, cost data, and clearly stated caveats.
+
+> [!TIP]
+> **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing)
 
 <a id="-quick-api-access"></a>
 ## ⚡ Quick API Access
