@@ -7,6 +7,7 @@
 [![20% Off Fable 5](https://img.shields.io/badge/Fable_5-20%25_OFF-ff6b00)](https://muapi.ai/pricing)
 [![Website](https://img.shields.io/badge/Website-Live-orange)](https://muapi.ai/playground/claude-fable-5)
 [![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://docs.muapi.ai)
+[![Build AI SaaS](https://img.shields.io/badge/Build_AI_SaaS-50%2B_templates-22c55e)](https://github.com/Anil-matcha/awesome-generative-ai-apps)
 
 [![English](https://img.shields.io/badge/English-Read-111111)](README.md)
 [![Español](https://img.shields.io/badge/Espa%C3%B1ol-Read-ffb703)](README_es.md)
@@ -46,6 +47,8 @@ Try it on MuAPI at **20% off**: [Claude Fable 5](https://muapi.ai/pricing)
 
 > [!TIP]
 > **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing)
+
+> 🚀 **Want to build your own AI SaaS with Fable 5?** [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 50+ production-ready AI SaaS templates with Stripe billing built in. Fork one, brand it, start charging.
 
 <a id="-quick-api-access"></a>
 ## ⚡ Quick API Access
