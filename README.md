@@ -33,26 +33,7 @@ This English source README focuses on high-signal cases with concrete workflows,
 
 Most cases are curated from X/Twitter posts and public demos. Each case title links back to the original source and each author handle links to the creator profile.
 
-Try it on MuAPI at **20% off**: [Claude Fable 5](https://muapi.ai/pricing)
-
-## 📊 Overview
-
-- **60 selected Claude Fable 5 cases** from public creators, developers, benchmark teams, and tool builders.
-- Covers coding agents, long-running automation, games, visual design, 3D simulations, knowledge work, tutorials, API integrations, benchmarks, pricing, and launch limitations.
-- Each case includes the original source, creator attribution, a concise takeaway, evidence type, and publication date.
-- Use this repo to find practical workflows, compare strengths and limits, discover reproducible prompts, and follow integration examples.
-
-> [!NOTE]
-> The collection favors concrete evidence over hype: reproducible prompts, shipped demos, benchmark methods, integration notes, cost data, and clearly stated caveats.
-
-> [!TIP]
-> **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing)
-
-> 🚀 **Want to build your own AI SaaS with Fable 5?** [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 50+ production-ready AI SaaS templates with Stripe billing built in. Fork one, brand it, start charging.
-
-## 🤖 All Major LLMs — One API Key, Lower Prices
-
-Access Claude, GPT-5, and Gemini through [MuAPI](https://muapi.ai) — one key, no per-provider sign-ups, at discounted rates vs going direct.
+**Access Claude Fable 5 and all major LLMs through [MuAPI](https://muapi.ai) — one key, discounted rates vs going direct:**
 
 | Model | Provider Direct Price | Via MuAPI |
 |---|---|---|
@@ -69,9 +50,22 @@ Access Claude, GPT-5, and Gemini through [MuAPI](https://muapi.ai) — one key, 
 | **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request — [try it](https://muapi.ai/playground/gemini-2-5-pro) |
 | **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request — [try it](https://muapi.ai/playground/gemini-2-5-flash) |
 
-> 💡 **One API key** covers all Claude, GPT, and Gemini models. Switch providers by changing the endpoint URL — no re-authentication, no separate billing accounts.
->
-> ➡️ Get your key at [muapi.ai/pricing](https://muapi.ai/pricing)
+> One API key for all providers. Switch models by changing the endpoint — no extra accounts, no separate billing. ➡️ [muapi.ai/pricing](https://muapi.ai/pricing)
+
+## 📊 Overview
+
+- **60 selected Claude Fable 5 cases** from public creators, developers, benchmark teams, and tool builders.
+- Covers coding agents, long-running automation, games, visual design, 3D simulations, knowledge work, tutorials, API integrations, benchmarks, pricing, and launch limitations.
+- Each case includes the original source, creator attribution, a concise takeaway, evidence type, and publication date.
+- Use this repo to find practical workflows, compare strengths and limits, discover reproducible prompts, and follow integration examples.
+
+> [!NOTE]
+> The collection favors concrete evidence over hype: reproducible prompts, shipped demos, benchmark methods, integration notes, cost data, and clearly stated caveats.
+
+> [!TIP]
+> **Get 20% off Claude Fable 5 on MuAPI.** Access Fable 5 at 20% off vs direct API pricing — instant REST access, no setup required. [Claim the discount →](https://muapi.ai/pricing)
+
+> 🚀 **Want to build your own AI SaaS with Fable 5?** [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 50+ production-ready AI SaaS templates with Stripe billing built in. Fork one, brand it, start charging.
 
 <a id="-quick-api-access"></a>
 ## ⚡ Quick API Access
