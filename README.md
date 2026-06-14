@@ -50,6 +50,29 @@ Try it on MuAPI at **20% off**: [Claude Fable 5](https://muapi.ai/pricing)
 
 > 🚀 **Want to build your own AI SaaS with Fable 5?** [Awesome Generative AI Apps](https://github.com/Anil-matcha/awesome-generative-ai-apps) — 50+ production-ready AI SaaS templates with Stripe billing built in. Fork one, brand it, start charging.
 
+## 🤖 All Major LLMs — One API Key, Lower Prices
+
+Access Claude, GPT-5, and Gemini through [MuAPI](https://muapi.ai) — one key, no per-provider sign-ups, at discounted rates vs going direct.
+
+| Model | Provider Direct Price | Via MuAPI |
+|---|---|---|
+| **Claude Fable 5** | Premium (new model) | ✅ **20% off** — [try it](https://muapi.ai/playground/claude-fable-5) |
+| **Claude Opus 4.8** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-8) |
+| **Claude Opus 4.7** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-7) |
+| **Claude Sonnet 4.6** | $3 input / $15 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-sonnet-4-6) |
+| **Claude Haiku 4.5** | $0.25 input / $1.25 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-haiku-4-5) |
+| **GPT-5.4** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-4) |
+| **GPT-5.5** | Premium (flagship pricing) | ✅ Available — [try it](https://muapi.ai/playground/gpt-5-5) |
+| **GPT-5 Mini** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-mini) |
+| **GPT-5 Nano** | $0.15+ per MTok | ✅ From $0.01 / request — [try it](https://muapi.ai/playground/gpt-5-nano) |
+| **Gemini 3.5 Flash** | $0.10 / $0.40 per MTok | ✅ From $0.0001 / request — [try it](https://muapi.ai/playground/gemini-3-5-flash) |
+| **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request — [try it](https://muapi.ai/playground/gemini-2-5-pro) |
+| **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request — [try it](https://muapi.ai/playground/gemini-2-5-flash) |
+
+> 💡 **One API key** covers all Claude, GPT, and Gemini models. Switch providers by changing the endpoint URL — no re-authentication, no separate billing accounts.
+>
+> ➡️ Get your key at [muapi.ai/pricing](https://muapi.ai/pricing)
+
 <a id="-quick-api-access"></a>
 ## ⚡ Quick API Access
 
@@ -71,27 +94,6 @@ curl --location --request GET "https://api.muapi.ai/api/v1/predictions/{request_
   --header "Content-Type: application/json" \
   --header "x-api-key: MUAPIAPP_API_KEY"
 ```
-
-## 🤖 All Major LLMs — One API Key, Lower Prices
-
-Access Claude, GPT-5, and Gemini through [MuAPI](https://muapi.ai) — one key, no per-provider sign-ups, at discounted rates vs going direct.
-
-| Model | Provider Direct Price | Via MuAPI |
-|---|---|---|
-| **Claude Fable 5** | Premium (new model) | ✅ **20% off** — [try it](https://muapi.ai/playground/claude-fable-5) |
-| **Claude Opus 4.8** | $15 input / $75 output per MTok | ✅ Discounted — [try it](https://muapi.ai/playground/claude-opus-4-8) |
-| **Claude Opus 4.7 / 4.6** | $15 input / $75 output per MTok | ✅ Available at lower cost |
-| **Claude Sonnet 4.6** | $3 input / $15 output per MTok | ✅ Discounted |
-| **Claude Haiku 4.5** | $0.25 input / $1.25 output per MTok | ✅ Discounted |
-| **GPT-5.4 / GPT-5.5** | Premium (flagship pricing) | ✅ Available |
-| **GPT-5 Mini / Nano** | $0.15+ per MTok | ✅ From $0.01 / request |
-| **Gemini 3.5 Flash** | $0.10 / $0.40 per MTok | ✅ From $0.0001 / request |
-| **Gemini 2.5 Pro** | $1.25 / $5 per MTok | ✅ From $0.00025 / request |
-| **Gemini 2.5 Flash** | $0.075 / $0.30 per MTok | ✅ From $0.00005 / request |
-
-> 💡 **One API key** covers all Claude, GPT, and Gemini models. Switch providers by changing the endpoint URL — no re-authentication, no separate billing accounts.
->
-> ➡️ Get your key at [muapi.ai/pricing](https://muapi.ai/pricing)
 
 ## 📑 Menu
 
